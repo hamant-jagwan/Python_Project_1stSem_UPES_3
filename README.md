@@ -22,7 +22,7 @@ This project involves creating a script that resizes images in a directory using
 
 1. Clone the repository:
     ```sh
-    git clone 
+    git clone https://github.com/hamant-jagwan/Python_Project_1stSem_UPES_3/blob/main/Resize.py
     ```
 
 2. Navigate to the project directory:
